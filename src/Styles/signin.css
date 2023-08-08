@@ -1,0 +1,17 @@
+label{
+    font-weight: 600;
+}
+
+.success{
+    color: green;
+  font-weight: bold;
+  text-align: center;
+}
+
+.error{
+    color: #e42323;
+}
+
+#form_container{
+    height: 100%;
+}
