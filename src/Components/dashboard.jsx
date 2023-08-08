@@ -8,6 +8,7 @@ export default function Dashboard() {
     <div className='d-flex justify-content-center align-items-center vh-100'>
       <div className='p-5 rounded-3' id='bg'>
         <Link to="/" className='btn btn-success'>Logout</Link>
+        <span >user</span>
       </div>
     </div>
     
